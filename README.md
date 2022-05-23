@@ -16,7 +16,7 @@ This technology allows us to integrate with other Spring modules, like this exam
 Your activity is get data of flat file `.CSV` and to save in a table of DB `MySQL`.
 
 <p align = "center">
-<img src = "./Docs/img/Spring_Batch_introduction.png" alt="MySQL Shell for VS Code" style="width:70%">
+<img src = "./Docs/img/Spring_Batch_introduction.png" alt="MySQL Shell for VS Code" style="width:100%">
 </p>
 <p align = "center">
 Fig.1 - A Little explanation about spring batch
